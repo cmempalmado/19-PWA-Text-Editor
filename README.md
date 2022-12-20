@@ -52,6 +52,8 @@ THEN I should have proper build scripts for a webpack application
 
 ## Link to Deployed Application
 
+https://cmse-text-editor.herokuapp.com/
+
 ---
 Copyright © [2022] [Christian Empalmado]
 
