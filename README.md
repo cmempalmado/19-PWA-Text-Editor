@@ -47,6 +47,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Mock-Up
+![cmse-text-editor herokuapp com_](https://user-images.githubusercontent.com/107980867/208669849-0f9064a2-0011-418e-b2c1-67aab205095b.jpg)
 
 
 
